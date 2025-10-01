@@ -19,7 +19,7 @@ These projects represent both my learning journey and the way games and tools we
 
 ## 📘 Educational Programs
 
-- [Horizontal Abacus](https://github.com/marco67ve/Abaco)  
+- [Abacus](https://github.com/marco67ve/Abaco)  
 - [Percorso di Baldo](https://github.com/marco67ve/Percorso-Baldo)  
 *(work in progress)*  
 
