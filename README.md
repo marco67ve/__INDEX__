@@ -12,7 +12,8 @@ These projects represent both my learning journey and the way games and tools we
 
 - [MasterMind](https://github.com/marco67ve/MasterMind)  
 - [Battaglia Navale 2.0](https://github.com/marco67ve/Battaglia-Navale-2.0)  
-- [Block 5](https://github.com/marco67ve/Block5)  
+- [Block 5](https://github.com/marco67ve/Block5)
+- [Sette e mezzo](https://github.com/marco67ve/Sette-e-mezzo)
 *(more to come...)*  
 
 ---
