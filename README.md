@@ -23,7 +23,8 @@ These projects represent both my learning journey and the way games and tools we
 
 - [Abacus](https://github.com/marco67ve/Abaco)
 - [Peso Forma](https://github.com/marco67ve/Peso-Forma)
-- [Percorso di Baldo](https://github.com/marco67ve/Percorso-Baldo)  
+- [Percorso di Baldo](https://github.com/marco67ve/Percorso-Baldo)
+- [Cubo di ghiaccio](https://github.com/marco67ve/ICECUBE)
 
 ---
 
