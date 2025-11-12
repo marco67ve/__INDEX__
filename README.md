@@ -37,6 +37,8 @@ All sources are also compatible with QB64: simply comment out or reduce any dela
 
 ## 🛠️ Utilities & Others
 
+- [Finder](https://github.com/marco67ve/FINDER)
+- 
 - *(to be added if needed)*  
 
 ---
