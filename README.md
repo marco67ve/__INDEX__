@@ -32,7 +32,7 @@ All sources are also compatible with QB64: simply comment out or reduce any dela
 - [Peso Forma](https://github.com/marco67ve/Peso-Forma)
 - [Percorso di Baldo](https://github.com/marco67ve/Percorso-Baldo)
 - [Cubo di ghiaccio](https://github.com/marco67ve/ICECUBE)
-- [ATOM SIMULATOR])https://github.com/marco67ve/ATOM-SIMULATOR)
+- [ATOM SIMULATOR](https://github.com/marco67ve/ATOM-SIMULATOR)
 
 ---
 
