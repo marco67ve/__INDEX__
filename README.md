@@ -38,7 +38,8 @@ Note: 16‑bit executables run natively under 32‑bit Windows releases (XP, 7, 
 ## 🛠️ Utilities & Others
 
 - [Finder](https://github.com/marco67ve/FINDER)
-- 
+- [SCREEN-C](https://github.com/marco67ve/SCREEN-C)
+- [BLINK](https://github.com/marco67ve/BLINK)
 - *(to be added if needed)*  
 
 ---
