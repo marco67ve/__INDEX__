@@ -19,7 +19,7 @@ Note: 16‑bit executables run natively under 32‑bit Windows releases (XP, 7, 
 - [Battaglia Navale 2.0](https://github.com/marco67ve/Battaglia-Navale-2.0)  
 - [Block 5](https://github.com/marco67ve/Block5)
 - [Sette e mezzo](https://github.com/marco67ve/Sette-e-mezzo)
-- 
+ 
 *(more to come...)*  
 
 ---
@@ -56,7 +56,6 @@ Each project repository includes:
 - Original source code (.BAS)  
 - Documentation in Markdown (.MD)  
 - Screenshots and test files where available
--  
 
 ---
  
