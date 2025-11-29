@@ -34,7 +34,10 @@ Note: 16‑bit executables run natively under 32‑bit Windows releases (XP, 7, 
 - [SUN](https://github.com/marco67ve/SUN)
 - [CALA4](https://github.com/marco67ve/CALA4)
 - [ISTOGRAM](https://github.com/marco67ve/ISTOGRAM)
-- 
+- [Calcolo Calorico](https://github.com/marco67ve/Calcolo-Calorico)
+
+*(more to come...)*
+
 ---
 
 ## 🛠️ Utilities & Others
@@ -43,8 +46,7 @@ Note: 16‑bit executables run natively under 32‑bit Windows releases (XP, 7, 
 - [SCREEN-C](https://github.com/marco67ve/SCREEN-C)
 - [BLINK](https://github.com/marco67ve/BLINK)
 - 
-
-- *(to be added if needed)*  
+*(more to come...)*  
 
 ---
 
