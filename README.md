@@ -39,8 +39,8 @@ Note: 16‑bit executables run natively under 32‑bit Windows releases (XP, 7, 
 - [Calcolo Calorico](https://github.com/marco67ve/Calcolo-Calorico)
 - [Ore mensili](https://github.com/marco67ve/Ore_Mensili)
 - [END STAR](https://github.com/marco67ve/END-STAR)
-- [END STAR](https://github.com/marco67ve/Aritmetica)
-- [END STAR](https://github.com/marco67ve/Analisi1)
+- [Aritmetica](https://github.com/marco67ve/Aritmetica)
+- [Analisi 1](https://github.com/marco67ve/Analisi1)
 
 *(more to come...)*
 
