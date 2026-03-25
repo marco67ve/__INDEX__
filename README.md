@@ -41,6 +41,8 @@ Note: 16‑bit executables run natively under 32‑bit Windows releases (XP, 7, 
 - [END STAR](https://github.com/marco67ve/END-STAR)
 - [Aritmetica](https://github.com/marco67ve/Aritmetica)
 - [Analisi 1](https://github.com/marco67ve/Analisi_1)
+- [Area cerchio](https://github.com/marco67ve/Area_cerchio)
+- [Diametro angolare](https://github.com/marco67ve/Diametro_angolare)
 
 *(more to come...)*
 
@@ -51,6 +53,7 @@ Note: 16‑bit executables run natively under 32‑bit Windows releases (XP, 7, 
 - [Finder](https://github.com/marco67ve/FINDER)
 - [SCREEN-C](https://github.com/marco67ve/SCREEN-C)
 - [BLINK](https://github.com/marco67ve/BLINK)
+- [Monoscopio](https://github.com/marco67ve/Monoscopio)
 - 
 *(more to come...)*  
 
