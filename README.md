@@ -43,7 +43,8 @@ Note: 16‑bit executables run natively under 32‑bit Windows releases (XP, 7, 
 - [Analisi 1](https://github.com/marco67ve/Analisi_1)
 - [Area cerchio](https://github.com/marco67ve/Area_cerchio)
 - [Diametro angolare](https://github.com/marco67ve/Diametro_angolare)
-
+- [Sun comparison](https://github.com/marco67ve/Sun-comparison)
+- 
 *(more to come...)*
 
 ---
