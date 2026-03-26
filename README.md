@@ -45,6 +45,7 @@ Note: 16‑bit executables run natively under 32‑bit Windows releases (XP, 7, 
 - [Diametro angolare](https://github.com/marco67ve/Diametro_angolare)
 - [Sun comparison](https://github.com/marco67ve/Sun-comparison)
 - [Orizzonti planetari](https://github.com/marco67ve/Orizzonti-planetari)
+- [Orizzonte Degli Eventi](https://github.com/marco67ve/Orizzonte-Degli-Eventi)
 - 
 *(more to come...)*
 
