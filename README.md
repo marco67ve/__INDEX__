@@ -50,6 +50,7 @@ Note: 16‑bit executables run natively under 32‑bit Windows releases (XP, 7, 
 - [Marea](https://github.com/marco67ve/Marea)
 - [The-Moon-Angular-Diameter-Evolution](https://github.com/marco67ve/The-Moon-Angular-Diameter-Evolution)
 - [Distanza Luna](https://github.com/marco67ve/Distanza-Luna)
+- [Distanza Sole](https://github.com/marco67ve/Distanza-Sole)
 -  
 *(more to come...)*
 
