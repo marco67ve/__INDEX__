@@ -48,6 +48,7 @@ Note: 16‑bit executables run natively under 32‑bit Windows releases (XP, 7, 
 - [Orizzonte Degli Eventi](https://github.com/marco67ve/Orizzonte-Degli-Eventi)
 - [Fasi lunari](https://github.com/marco67ve/Fasi-lunari)
 - [Marea](https://github.com/marco67ve/Marea)
+- [The-Moon-Angular-Diameter-Evolution](https://github.com/marco67ve/The-Moon-Angular-Diameter-Evolution)
 -  
 *(more to come...)*
 
