@@ -34,11 +34,11 @@ Note: 16‑bit executables run natively under 32‑bit Windows releases (XP, 7, 
 - [Cubo di ghiaccio](https://github.com/marco67ve/ICECUBE)
 - [ATOM SIMULATOR](https://github.com/marco67ve/ATOM-SIMULATOR)
 - [SUN](https://github.com/marco67ve/SUN)
-- [CALA4](https://github.com/marco67ve/CALA4)
+- [CALENDARI A4](https://github.com/marco67ve/CALA4)
 - [ISTOGRAM](https://github.com/marco67ve/ISTOGRAM)
 - [Calcolo Calorico](https://github.com/marco67ve/Calcolo-Calorico)
 - [Ore mensili](https://github.com/marco67ve/Ore_Mensili)
-- [END STAR](https://github.com/marco67ve/END-STAR)
+- [END STARS](https://github.com/marco67ve/END-STAR)
 - [Aritmetica](https://github.com/marco67ve/Aritmetica)
 - [Analisi 1](https://github.com/marco67ve/Analisi_1)
 - [Area cerchio](https://github.com/marco67ve/Area_cerchio)
@@ -51,6 +51,7 @@ Note: 16‑bit executables run natively under 32‑bit Windows releases (XP, 7, 
 - [The-Moon-Angular-Diameter-Evolution](https://github.com/marco67ve/The-Moon-Angular-Diameter-Evolution)
 - [Distanza Luna](https://github.com/marco67ve/Distanza-Luna)
 - [Distanza Sole](https://github.com/marco67ve/Distanza-Sole)
+- [Vettori cosmici](https://github.com/marco67ve/Vettori-cosmici)
 -  
 *(more to come...)*
 
