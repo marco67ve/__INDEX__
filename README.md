@@ -53,6 +53,7 @@ Note: 16‑bit executables run natively under 32‑bit Windows releases (XP, 7, 
 - [Distanza Sole](https://github.com/marco67ve/Distanza-Sole)
 - [Vettori cosmici](https://github.com/marco67ve/Vettori-cosmici)
 - [Caduta torri](https://github.com/marco67ve/Caduta-torri)
+- [Pendoli](https://github.com/marco67ve/Pendoli)
 -  
 *(more to come...)*
 
