@@ -65,6 +65,8 @@ Note: 16‑bit executables run natively under 32‑bit Windows releases (XP, 7, 
 - [SCREEN-C](https://github.com/marco67ve/SCREEN-C)
 - [BLINK](https://github.com/marco67ve/BLINK)
 - [Monoscopio](https://github.com/marco67ve/Monoscopio)
+- [D.L.66/2003](https://github.com/marco67ve/DL662003)
+- [Sort Lab](https://github.com/marco67ve/Sort-Lab)
 - 
 *(more to come...)*  
 
