@@ -54,6 +54,7 @@ Note: 16‑bit executables run natively under 32‑bit Windows releases (XP, 7, 
 - [Vettori cosmici](https://github.com/marco67ve/Vettori-cosmici)
 - [Caduta torri](https://github.com/marco67ve/Caduta-torri)
 - [Pendoli](https://github.com/marco67ve/Pendoli)
+- [Calcolo carte](https://github.com/marco67ve/Calcolo-carte)
 -  
 *(more to come...)*
 
@@ -67,6 +68,7 @@ Note: 16‑bit executables run natively under 32‑bit Windows releases (XP, 7, 
 - [Monoscopio](https://github.com/marco67ve/Monoscopio)
 - [D.L.66/2003](https://github.com/marco67ve/DL662003)
 - [Sort Lab](https://github.com/marco67ve/Sort-Lab)
+- [RND](https://github.com/marco67ve/RND)
 - 
 *(more to come...)*  
 
