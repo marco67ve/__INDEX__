@@ -13,12 +13,6 @@ Note: 16‑bit executables run natively under 32‑bit Windows releases (XP, 7, 
 
 ---
 
-Perfetto 😄 allora facciamolo sul serio: trasformiamo il tuo INDEX da “lista nostalgica bella ma piatta” a **hub navigabile con cervello**.
-
-Ti propongo una versione 2.0 che resta fedele al tuo stile retro BASIC, ma diventa molto più potente come struttura.
-
----
-
 # 🧠 BASIC Projects Index — v2.0 (struttura ottimizzata)
 
 ## 🎮 GAMES — Arcade & Logic
