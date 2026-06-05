@@ -13,65 +13,88 @@ Note: 16‑bit executables run natively under 32‑bit Windows releases (XP, 7, 
 
 ---
 
-## 🎮 Games
+Perfetto 😄 allora facciamolo sul serio: trasformiamo il tuo INDEX da “lista nostalgica bella ma piatta” a **hub navigabile con cervello**.
 
-- [MasterMind](https://github.com/marco67ve/MasterMind)  
-- [Battaglia Navale 2.0](https://github.com/marco67ve/Battaglia-Navale-2.0)  
-- [Block 5](https://github.com/marco67ve/Block5)
-- [Sette e mezzo](https://github.com/marco67ve/Sette-e-mezzo)
-- [43D - Tic-Tac-Toe 4x4x4](https://github.com/marco67ve/43D)
-- [Ascensori - Simulazioni](https://github.com/marco67ve/ascensori)
-  
-*(more to come...)*  
+Ti propongo una versione 2.0 che resta fedele al tuo stile retro BASIC, ma diventa molto più potente come struttura.
 
 ---
 
-## 📘 Educational Programs
+# 🧠 BASIC Projects Index — v2.0 (struttura ottimizzata)
 
-- [Abacus](https://github.com/marco67ve/Abaco)
-- [Peso Forma](https://github.com/marco67ve/Peso-Forma)
-- [Percorso di Baldo](https://github.com/marco67ve/Percorso-Baldo)
-- [Cubo di ghiaccio](https://github.com/marco67ve/ICECUBE)
-- [ATOM SIMULATOR](https://github.com/marco67ve/ATOM-SIMULATOR)
-- [SUN](https://github.com/marco67ve/SUN)
-- [CALENDARI A4](https://github.com/marco67ve/CALA4)
-- [ISTOGRAM](https://github.com/marco67ve/ISTOGRAM)
-- [Calcolo Calorico](https://github.com/marco67ve/Calcolo-Calorico)
-- [Ore mensili](https://github.com/marco67ve/Ore_Mensili)
-- [END STARS](https://github.com/marco67ve/END-STAR)
-- [Aritmetica](https://github.com/marco67ve/Aritmetica)
-- [Analisi 1](https://github.com/marco67ve/Analisi_1)
-- [Area cerchio](https://github.com/marco67ve/Area_cerchio)
-- [Diametro angolare](https://github.com/marco67ve/Diametro_angolare)
-- [Sun comparison](https://github.com/marco67ve/Sun-comparison)
-- [Orizzonti planetari](https://github.com/marco67ve/Orizzonti-planetari)
-- [Orizzonte Degli Eventi](https://github.com/marco67ve/Orizzonte-Degli-Eventi)
-- [Fasi lunari](https://github.com/marco67ve/Fasi-lunari)
-- [Marea](https://github.com/marco67ve/Marea)
-- [The-Moon-Angular-Diameter-Evolution](https://github.com/marco67ve/The-Moon-Angular-Diameter-Evolution)
-- [Distanza Luna](https://github.com/marco67ve/Distanza-Luna)
-- [Distanza Sole](https://github.com/marco67ve/Distanza-Sole)
-- [Vettori cosmici](https://github.com/marco67ve/Vettori-cosmici)
-- [Caduta torri](https://github.com/marco67ve/Caduta-torri)
-- [Pendoli](https://github.com/marco67ve/Pendoli)
-- [Calcolo carte](https://github.com/marco67ve/Calcolo-carte)
--  
-*(more to come...)*
+## 🎮 GAMES — Arcade & Logic
+
+### 🧩 Logic / Board Games
+
+* MasterMind → [https://github.com/marco67ve/MasterMind](https://github.com/marco67ve/MasterMind)
+* Battaglia Navale 2.0 → [https://github.com/marco67ve/Battaglia-Navale-2.0](https://github.com/marco67ve/Battaglia-Navale-2.0)
+* Sette e mezzo → [https://github.com/marco67ve/Sette-e-mezzo](https://github.com/marco67ve/Sette-e-mezzo)
+* Block 5 → [https://github.com/marco67ve/Block5](https://github.com/marco67ve/Block5)
+* 43D - Tic-Tac-Toe 4x4x4 → [https://github.com/marco67ve/43D](https://github.com/marco67ve/43D)
+
+### 🏗️ Simulations
+
+* Ascensori - Simulazioni → [https://github.com/marco67ve/ascensori](https://github.com/marco67ve/ascensori)
 
 ---
 
-## 🛠️ Utilities & Others
+## 📘 EDUCATIONAL — Math, Science & Models
 
-- [Finder](https://github.com/marco67ve/FINDER)
-- [SCREEN-C](https://github.com/marco67ve/SCREEN-C)
-- [BLINK](https://github.com/marco67ve/BLINK)
-- [Monoscopio](https://github.com/marco67ve/Monoscopio)
-- [D.L.66/2003](https://github.com/marco67ve/DL662003)
-- [Sort Lab](https://github.com/marco67ve/Sort-Lab)
-- [RND](https://github.com/marco67ve/RND)
-- [FONT 8x8](https://github.com/marco67ve/FONT-8x8)
-- 
-*(more to come...)*  
+### ➗ Mathematics & Calculations
+
+* Aritmetica → [https://github.com/marco67ve/Aritmetica](https://github.com/marco67ve/Aritmetica)
+* Analisi 1 → [https://github.com/marco67ve/Analisi_1](https://github.com/marco67ve/Analisi_1)
+* Area cerchio → [https://github.com/marco67ve/Area_cerchio](https://github.com/marco67ve/Area_cerchio)
+* Calcolo carte → [https://github.com/marco67ve/Calcolo-carte](https://github.com/marco67ve/Calcolo-carte)
+* Calcolo Calorico → [https://github.com/marco67ve/Calcolo-Calorico](https://github.com/marco67ve/Calcolo-Calorico)
+* Abacus → [https://github.com/marco67ve/Abaco](https://github.com/marco67ve/Abaco)
+
+### 🌍 Astronomy & Physics Simulations
+
+* SUN → [https://github.com/marco67ve/SUN](https://github.com/marco67ve/SUN)
+* Sun comparison → [https://github.com/marco67ve/Sun-comparison](https://github.com/marco67ve/Sun-comparison)
+* Distanza Sole → [https://github.com/marco67ve/Distanza-Sole](https://github.com/marco67ve/Distanza-Sole)
+* Distanza Luna → [https://github.com/marco67ve/Distanza-Luna](https://github.com/marco67ve/Distanza-Luna)
+* Fasi lunari → [https://github.com/marco67ve/Fasi-lunari](https://github.com/marco67ve/Fasi-lunari)
+* Marea → [https://github.com/marco67ve/Marea](https://github.com/marco67ve/Marea)
+* Vettori cosmici → [https://github.com/marco67ve/Vettori-cosmici](https://github.com/marco67ve/Vettori-cosmici)
+* Orizzonti planetari → [https://github.com/marco67ve/Orizzonti-planetari](https://github.com/marco67ve/Orizzonti-planetari)
+* Orizzonte Degli Eventi → [https://github.com/marco67ve/Orizzonte-Degli-Eventi](https://github.com/marco67ve/Orizzonte-Degli-Eventi)
+* Pendoli → [https://github.com/marco67ve/Pendoli](https://github.com/marco67ve/Pendoli)
+* Caduta torri → [https://github.com/marco67ve/Caduta-torri](https://github.com/marco67ve/Caduta-torri)
+
+### 🧪 Physics / Experimental Models
+
+* ATOM SIMULATOR → [https://github.com/marco67ve/ATOM-SIMULATOR](https://github.com/marco67ve/ATOM-SIMULATOR)
+* Cubo di ghiaccio → [https://github.com/marco67ve/ICECUBE](https://github.com/marco67ve/ICECUBE)
+* Diametro angolare → [https://github.com/marco67ve/Diametro_angolare](https://github.com/marco67ve/Diametro_angolare)
+* The Moon Angular Diameter Evolution → [https://github.com/marco67ve/The-Moon-Angular-Diameter-Evolution](https://github.com/marco67ve/The-Moon-Angular-Diameter-Evolution)
+
+### 📊 Data / Statistics / Visualization
+
+* ISTOGRAM → [https://github.com/marco67ve/ISTOGRAM](https://github.com/marco67ve/ISTOGRAM)
+* Ore mensili → [https://github.com/marco67ve/Ore_Mensili](https://github.com/marco67ve/Ore_Mensili)
+* END STARS → [https://github.com/marco67ve/END-STAR](https://github.com/marco67ve/END-STAR)
+
+---
+
+## 🛠️ UTILITIES & SYSTEM TOOLS
+
+### 🧰 System / Hardware / Interface
+
+* Finder → [https://github.com/marco67ve/FINDER](https://github.com/marco67ve/FINDER)
+* SCREEN-C → [https://github.com/marco67ve/SCREEN-C](https://github.com/marco67ve/SCREEN-C)
+* BLINK → [https://github.com/marco67ve/BLINK](https://github.com/marco67ve/BLINK)
+* Monoscopio → [https://github.com/marco67ve/Monoscopio](https://github.com/marco67ve/Monoscopio)
+* FONT 8x8 → [https://github.com/marco67ve/FONT-8x8](https://github.com/marco67ve/FONT-8x8)
+
+### 🔧 Algorithms / Tools
+
+* Sort Lab → [https://github.com/marco67ve/Sort-Lab](https://github.com/marco67ve/Sort-Lab)
+* RND → [https://github.com/marco67ve/RND](https://github.com/marco67ve/RND)
+
+### 📜 Special / Legacy / Misc
+
+* D.L.66/2003 → [https://github.com/marco67ve/DL662003](https://github.com/marco67ve/DL662003)
 
 ---
 
